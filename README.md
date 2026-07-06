@@ -3,4 +3,4 @@
 
 ---
 
-## ⬇️ [📥 Atsisiųsk PDF](https://raw.githubusercontent.com/Philscie/nuo-aibiu-iki-strukturu/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
+## ⬇️ [Atsisiųsti](https://raw.githubusercontent.com/Philscie/nuo-aibiu-iki-strukturu/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
