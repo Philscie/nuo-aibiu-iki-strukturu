@@ -10,4 +10,4 @@
 
 ---
 
-## ⬇️ [Atsisiųsti](https://raw.githubusercontent.com/Philscie/nuo-aibiu-iki-strukturu/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
+## ⬇️ [Atsisiųsti](https://github.com/Philscie/nuo-aibiu-iki-strukturu/raw/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
