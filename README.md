@@ -1,9 +1,12 @@
+<table>
+  <tr>
+    <td>
+      <img src="Mari_art.jpg" width="200"/>
+    </td>
+    <td>
+
 # 📘Nuo Aibių iki Struktūrų
 Ši knyga, skirta smalsiems moksleiviams, kviečia pažvelgti į matematiką kaip į procesą, kuriame pavieniai objektai palaipsniui įgauna prasmę per savo tarpusavio ryšius, o šie ryšiai virsta struktūromis. Kelionė prasideda nuo aibių, tęsiasi per sąryšius, atvaizdavimus ir veda į vientisą matematinės kalbos vaizdą.
-
-<p align="center">
-  <img src="Mari_art.jpg" width="200"/>
-</p>
 
 ---
 
