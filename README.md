@@ -5,6 +5,4 @@
 
 ## ⬇️ Atsisiųsti
 
-<a href="https://raw.githubusercontent.com/Philscie/nuo-aibiu-iki-strukturu/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf" download>
-  <img src="https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
-</a>
+[📥 Download PDF](https://raw.githubusercontent.com/Philscie/nuo-aibiu-iki-strukturu/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
