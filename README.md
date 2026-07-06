@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="Mari_art.jpg" width="200"/>
+      <img src="Mari_art.jpg" width="400"/>
     </td>
     <td>
 
