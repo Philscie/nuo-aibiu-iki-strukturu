@@ -15,6 +15,6 @@
 
 ## 📌 Pastaba 
 
-Ši knyga užima tarpinę erdvę tarp vidurinės mokyklos ir universitetinio matematikos lygio, veikdama kaip tiltas tarp intuicijos ir griežtos matematinės formos.
+Ši knyga užima tarpinę erdvę tarp vidurinės mokyklos ir universitetinio matematikos lygio, veikdama kaip tiltas tarp intuicijos ir griežtos matematinės kalbos.
 
 ## ⬇️ [Atsisiųsti](https://github.com/Philscie/nuo-aibiu-iki-strukturu/raw/main/Borodinas_nuo-aibiu-iki-strukturu-2026.pdf)
